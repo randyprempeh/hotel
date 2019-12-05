@@ -1,0 +1,18 @@
+.hotel_Package {
+  padding: 10px;
+  color: gray;
+}
+.hotel_amenities {
+  display: flex;
+  font-size: 10px;
+  padding: 10px;
+}
+
+.hotel_amenities .pack {
+  text-align: center;
+  padding: 5px;
+}
+
+.hotel_amenities .pack h4 {
+  font-size: 13px;
+}
